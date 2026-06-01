@@ -162,9 +162,9 @@ Supported students in Database Management Systems labs and projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaramahmoudd11&show_icons=true&theme=tokyonight&hide_border=true" alt="Yara's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaramahmoudd11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaramahmoudd11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaramahmoudd11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -184,7 +184,7 @@ Supported students in Database Management Systems labs and projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yaramahmoudd11/yaramahmoudd11/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+![Contribution Snake](https://raw.githubusercontent.com/yaramahmoudd11/yaramahmoudd11/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
