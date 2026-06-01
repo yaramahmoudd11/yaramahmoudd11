@@ -162,9 +162,23 @@ Supported students in Database Management Systems labs and projects.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaramahmoudd11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yara's GitHub Stats" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaramahmoudd11&theme=tokyonight" alt="GitHub Profile Details" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaramahmoudd11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/><br/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaramahmoudd11&theme=tokyonight" alt="GitHub Stats" />
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaramahmoudd11&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaramahmoudd11&theme=tokyonight" alt="Repos Per Language" />
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaramahmoudd11&theme=tokyonight" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaramahmoudd11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
