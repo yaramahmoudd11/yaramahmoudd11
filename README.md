@@ -162,9 +162,17 @@ Supported students in Database Management Systems labs and projects.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaramahmoudd11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaramahmoudd11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yara's GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaramahmoudd11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaramahmoudd11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaramahmoudd11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
