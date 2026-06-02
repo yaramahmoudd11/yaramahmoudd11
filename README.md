@@ -3,7 +3,7 @@
 # Hi, I'm Yara Mahmoud 👋
 
 ### Communication & Computer Engineering Student  
-### Software Engineering | AI/ML | Embedded Systems | Digital Design
+### Software Engineering | AI/ML | Embedded AI | CV
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+practical+AI+and+software+systems;Interested+in+Software+Engineering+and+AI%2FML;Working+with+Embedded+Systems+and+Computer+Vision;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a **Communication and Computer Engineering undergraduate** at **Zewail City of Science and Technology**, interested in building practical engineering solutions across **software engineering, AI/ML, embedded systems, computer vision, and digital design**.
+I am a **Communication and Computer Engineering undergraduate** at **Zewail City of Science and Technology**, interested in building practical engineering solutions across **software engineering, AI/ML, embedded AI, and computer vision**.
 
 I enjoy working on projects that connect software with real-world systems, especially AI-powered applications, backend systems, cloud integration, embedded control, and full-stack development.
 
