@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Yara%20Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://yara-portfolio-three.vercel.app/">
+<a href="https:/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -285,9 +285,9 @@ The platform supports product tracking, salary management, financial statistics,
 
 **B.S. in Communication and Computer Engineering**
 
-- GPA: **3.63/4.0**
+- GPA: **/4.0**
 - Scholarship recipient
-- Provost Honour List
+- 
 - Expected graduation: **2027**
 
 ---
