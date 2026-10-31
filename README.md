@@ -4,9 +4,9 @@
 
 ### Communication & Computer Engineering Student
 
-### Telecommunications | AI/ML | Software Engineering | Automation | Embedded AI
+### AI for Telecommunications | Machine Learning | Software Engineering | Embedded AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+practical+AI+and+software+systems;Exploring+mobile+networks+and+telecommunications;Working+with+GNNs%2C+PINNs%2C+and+Scientific+ML;Developing+automation+and+data+engineering+solutions;Connecting+AI+with+embedded+and+real-world+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Exploring+AI+for+Telecommunications;Ericsson+Graduation+Project+Mentorship;Building+Scientific+ML+Models+at+Si-Vision;Developing+AI%2C+Software%2C+and+IoT+Systems;Turning+Engineering+Challenges+into+Practical+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Yara%20Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https:/">
+<a href="https://yara-portfolio-three.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -28,44 +28,38 @@
 
 ## 🚀 About Me
 
-I am a **Communication and Computer Engineering undergraduate** at **Zewail City of Science and Technology**, with a strong interest in building practical engineering solutions across **telecommunications, artificial intelligence, machine learning, software engineering, automation, data engineering, and embedded systems**.
+I am a **Communication and Computer Engineering undergraduate** at **Zewail City of Science and Technology** (Class of **2027**, GPA **3.63/4.0**), interested in the intersection of **artificial intelligence, telecommunications, and software engineering**.
 
-I enjoy working on multidisciplinary projects that connect software and AI with real-world systems, including mobile networks, scientific simulations, backend platforms, automation workflows, computer vision, embedded devices, and cloud-connected applications.
+My experience spans **machine learning for engineering simulations, RF capacity planning, computer vision, Generative AI, automation, and IoT systems**. I enjoy turning engineering challenges into practical, end-to-end solutions—from data preparation and model development to backend integration and deployment.
 
-- 🎓 Studying **Communication and Computer Engineering** at Zewail City of Science and Technology
-- 📡 Currently developing practical knowledge of **2G, 3G, 4G, 5G, radio access networks, base stations, modulation, MIMO, and capacity planning**
-- 🧠 Working with **Graph Neural Networks, Physics-Informed Neural Networks, deep learning, and scientific machine learning**
-- 💻 Experienced in **software engineering, backend development, workflow automation, and data engineering**
-- 🤖 Built projects involving **computer vision, NLP, edge AI, embedded systems, and real-time monitoring**
-- 🔧 Worked with **Python, PyTorch, OpenCV, ASP.NET Core, SQL Server, Flutter, Docker, Raspberry Pi, and PIC microcontrollers**
-- 🌱 Currently improving my skills in **AI deployment, telecommunications, backend systems, and production-ready engineering workflows**
-- 🎯 Open to opportunities in **AI/ML, software engineering, telecommunications, automation, data engineering, and embedded AI**
+- 📡 **Currently:** Participating in **Ericsson's graduation project mentorship program**, exploring an **AI + Telecommunications** graduation project (scope and implementation under development).
+- 🧠 **Currently:** Working at **Si-Vision** on machine learning for digital IC and hardware-related simulations, including **GNNs, PINNs, and PyTorch**.
+- 📶 **Telecom experience:** RF capacity planning, network KPIs, 2G–5G, MIMO/Massive MIMO, and microwave line-of-sight assessment through my work at **e& Egypt**.
+- 🤖 **AI experience:** Computer vision, NLP, RAG-based assistants, LLM API integrations, scientific ML, and AI-enabled IoT systems.
+- 💻 **Engineering toolkit:** Python, PyTorch, Scikit-learn, OpenCV, ASP.NET Core, SQL, FastAPI, Docker, Flutter, and embedded platforms.
+- 🎯 **Interests:** AI/ML, AI for telecommunications, software engineering, data engineering, automation, and embedded AI.
+
+🔗 **[Explore my portfolio](https://yara-portfolio-three.vercel.app/)**
 
 ---
 
-## 💼 Current Experience
+## 💼 Current Experience & Mentorship
 
-### 📡 Technology Intern — e& Egypt
+### 📡 Graduation Project Mentee — Ericsson | AI + Telecommunications
 
-- Studying the architecture and evolution of **2G, 3G, 4G, and 5G mobile communication technologies**
-- Exploring **radio access networks, base stations, baseband units, radio units, antennas, and transmission systems**
-- Analyzing modulation and multiple-access techniques including **QPSK, QAM, TDMA, CDMA, and OFDMA**
-- Learning about **MIMO, Massive MIMO, spectrum utilization, coverage planning, interference, and radio capacity planning**
+**2026 – Present** · Graduation project mentorship
 
-### 🧠 Machine Learning and AI for Hardware Intern — Si-Vision
+- Participating in an **Ericsson graduation project mentorship program** focused on developing an **AI + telecommunications** graduation project.
+- Exploring potential telecom use cases, AI approaches, relevant datasets, and methods for simulation-based evaluation.
+- **Project status:** Research and scoping phase; final problem statement and implementation details are still being defined.
 
-- Applying deep-learning and scientific machine-learning techniques to hardware-related simulation problems
-- Building end-to-end **Python and PyTorch pipelines** for simulation-data preprocessing and feature extraction
-- Transforming physical systems into graph-based representations for model training
-- Experimenting with **Graph Neural Networks and Physics-Informed Neural Networks**
-- Training and evaluating predictive models toward high accuracy and faster inference than traditional simulation approaches
+### 🧠 Machine Learning for Digital ICs Intern — Si-Vision
 
-### ⚙️ Automation and AI Intern — PyramidBits
+**Jul 2026 – Present**
 
-- Developed payroll and business automation workflows that reduced manual processing time by approximately **78%**
-- Cleaned, reconciled, and validated more than **200 employee records** across **11 work locations**
-- Built structured exception reports and payroll-ready outputs
-- Developed an AI-powered coding assistant and chatbot that helped engineers develop and troubleshoot JavaScript functions up to **90% faster**
+- Developing **Python and PyTorch** pipelines for preprocessing simulation data, feature engineering, and graph-based representations of physical systems.
+- Exploring **Graph Neural Networks (GNNs)** and **Physics-Informed Neural Networks (PINNs)** for predictive modeling of hardware-related simulations.
+- Evaluating models for predictive accuracy and inference efficiency relative to traditional simulation workflows.
 
 ---
 
@@ -114,6 +108,14 @@ I enjoy working on multidisciplinary projects that connect software and AI with 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
+### Generative AI & Intelligent Systems
+
+![LLM APIs](https://img.shields.io/badge/LLM%20API%20Integration-0F766E?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-334155?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### Web, Mobile & Backend
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -158,6 +160,16 @@ I enjoy working on multidisciplinary projects that connect software and AI with 
 ---
 
 ## 📌 Featured Projects
+
+### 📡 Microwave LOS Guardian — Computer Vision for Telecom
+
+A computer vision-based workflow for assessing **microwave line-of-sight (LOS)** between telecom sites. It analyzes site imagery to detect potential obstacles—including buildings, trees, towers, and antenna structures—to support microwave link planning.
+
+Includes a **Flutter mobile application** for site selection and LOS analysis.
+
+**Tech:** Computer Vision, Object Detection, Python, Flutter, Telecommunications
+
+---
 
 ### 🏦 AI-Powered Smart Bank Security System
 
@@ -259,23 +271,49 @@ The platform supports product tracking, salary management, financial statistics,
 
 ## 🏢 Previous Experience
 
+### 📡 RF Capacity Planning Intern — e& Egypt
+
+**Aug 2026**
+
+- Studied **2G/3G/4G/5G**, radio access network architecture, OFDMA, MIMO/Massive MIMO, spectral efficiency, interference, and network performance.
+- Gained experience with **traffic demand, RF capacity planning, coverage assessment, network KPIs**, and site upgrade/downgrade decisions.
+- Collaborated with the Transmission Team on a **computer vision-based microwave line-of-sight** assessment project.
+
+### 🌡️ AI & IoT Engineering Intern — Syntax IoT
+
+**Sep 2026**
+
+- Developed and integrated an **AI-driven heat-stress early warning system** for smart poultry farming using temperature, humidity, and temperature-humidity index (THI) data.
+- Integrated a machine-learning inference service built with **FastAPI** into a **Node.js, MySQL, and MQTT** IoT platform, alongside weather forecasts and real-time sensor data.
+- Supported intelligent, multi-fan ventilation workflows while keeping the hardware control logic separate from AI inference.
+
+### ⚙️ Automation and AI Intern — PyramidBits
+
+**Jul 2026**
+
+- Built a **RAG-based coding assistant** for JavaScript engineering workflows, reducing development and debugging effort by up to **90%**.
+- Automated payroll and business processes, reducing manual processing time by approximately **78%**.
+- Reconciled and validated **200+ employee records across 11 work locations**, generating exception reports and payroll-ready outputs.
+
 ### 🚘 Software Engineer Intern — Valeo Egypt
 
-- Developed and optimized Python and JavaScript automation scripts
-- Built ETL pipelines for DOCX, Excel, and Codebeamer engineering outputs
-- Transformed testing data into migration-ready and analysis-ready datasets
-- Added validation and parsing logic to improve data quality and consistency
-- Automated KPI dashboards and engineering reports using SQL, Looker Studio, and CI/CD monitoring workflows
+**Jul 2025 – Sep 2025**
+
+- Developed an **LLM API-integrated AI agent** to support engineering workflows.
+- Built **Python and JavaScript** automation scripts and ETL pipelines for DOCX, Excel, and Codebeamer engineering data.
+- Automated KPI dashboards and engineering reports using **SQL, Looker Studio, and CI/CD monitoring workflows**.
 
 ### 👩‍🏫 Junior Teaching Assistant — Zewail City of Science and Technology
 
-- Supported Database Management Systems laboratories and semester projects
-- Guided students in SQL, database design, relational modeling, and query optimization
+**Sep 2025 – Jan 2026**
+
+- Supported Database Management Systems laboratories and semester projects.
+- Guided students in **SQL, database design, relational modeling, and query optimization**.
 
 ### 🌐 Web Development Intern — Pharma World
 
-- Developed a full-stack company platform using ASP.NET Core MVC, Razor Views, Entity Framework Core, and SQL Server
-- Collaborated with the client to analyze requirements and deliver the final solution
+- Developed a full-stack company platform using **ASP.NET Core MVC, Razor Views, Entity Framework Core, and SQL Server**.
+- Collaborated with the client to gather requirements and deliver the solution.
 
 ---
 
@@ -285,9 +323,8 @@ The platform supports product tracking, salary management, financial statistics,
 
 **B.S. in Communication and Computer Engineering**
 
-- GPA: **/4.0**
-- Scholarship recipient
-- 
+- GPA: **3.63/4.0**
+- Scholarship recipient · ABET-accredited engineering program
 - Expected graduation: **2027**
 
 ---
@@ -360,7 +397,7 @@ Explore my projects, experience, and technical work through my personal portfoli
 
 <div align="center">
 
-### [Visit My Portfolio]
+### [Visit My Portfolio](https://yara-portfolio-three.vercel.app/)
 
 </div>
 
@@ -371,7 +408,7 @@ Explore my projects, experience, and technical work through my personal portfoli
 - 📧 Email: **s-yara.abdalrazek@zewailcity.edu.eg**
 - 💼 LinkedIn: [Yara Mahmoud](https://www.linkedin.com/in/yara-elsayed-95070b217/)
 - 💻 GitHub: [yaramahmoudd11](https://github.com/yaramahmoudd11)
-- 🌐 Portfolio: 
+- 🌐 Portfolio: [yara-portfolio-three.vercel.app](https://yara-portfolio-three.vercel.app/)
 
 ---
 
